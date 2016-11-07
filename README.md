@@ -10,7 +10,7 @@ a username and password of "SCOTT" and "TIGER", respectively.
 First, pull the Docker image to your local machine.
 
 ```
-$ docker pull joshelser/avatica-hsqldb
+$ docker pull joshelser/avatica-hsqldb:<version>
 ```
 
 Next, run the image, providing the local port you want to expose the
@@ -51,9 +51,11 @@ Connection closed by foreign host.
 There are multiple versions of this Docker image available which correspond
 to the version of Avatica being used.
 
-* 1.7.0
+* 1.9.0 (latest)
+* 1.8.0
 * 1.7.1
-* 1.8.0 (latest)
+* 1.7.0
+* 1.6.0
 
 To use a specific version, reference the tag in the Docker image name:
 
