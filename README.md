@@ -5,7 +5,7 @@ the given database driver.
 
 ## HSQLDB
 
-[See HSQLDB](https://github.com/joshelser/avatica-standalone-docker/tree/master/hsqldb)
+[See HSQLDB](https://github.com/joshelser/avatica-standalone-docker/tree/master/hypersql)
 
 ## MySQL
 
