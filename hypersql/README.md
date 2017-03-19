@@ -11,3 +11,5 @@ Change `8765` to the desired port the Avatica server will be bound to on the hos
 ```
 docker run --rm --expose=8765 -p 8765:8765 -it joshelser/avatica-hsqldb-server -p 8765
 ```
+
+Clients must use the credentials "SCOTT" and "TIGER" to connect to this HSQLDB instance.
