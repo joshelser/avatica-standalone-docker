@@ -11,6 +11,10 @@ the given database driver.
 
 [See MySQL](https://github.com/joshelser/avatica-standalone-docker/tree/master/mysql)
 
+## PostgreSQL
+
+[See PostgreSQL](https://github.com/joshelser/avatica-standalone-docker/tree/master/postgres)
+
 ## Disclaimer
 
 Apache Avatica is a trademark of the [Apache Software Foundation](https://www.apache.org/).
